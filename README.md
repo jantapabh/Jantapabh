@@ -6,6 +6,12 @@ I am Jan and I tried most fields of programming such as blockchain development, 
 In addition to my personal page, you can also follow my main page called <a href="https://www.instagram.com/barnamenevisiinsta/">barnamenevisiinsta</a> on Instagram.
 </p>
 
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=rzashakeri&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
+</details>
+
 
 <p align="left">
 I code with :  👇
