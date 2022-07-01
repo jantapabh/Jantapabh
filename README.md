@@ -6,6 +6,9 @@ I am Jan and I tried most fields of programming such as blockchain development, 
 In addition to my personal page, you can also follow my main page called <a href="https://www.instagram.com/barnamenevisiinsta/">barnamenevisiinsta</a> on Instagram.
 </p>
 
+
+<a href="https://app.daily.dev/Janjoa"><img src="https://api.daily.dev/devcards/889649b27bca42a4bf7714123848fe33.png?r=5u8" width="400" alt="Janjoa_'s Dev Card"/></a>
+
 <p align="left">
 I code with :  👇
 
