@@ -1,6 +1,6 @@
  <p align="justify"> 
 Hello 🖐️ friends, welcome to my github
-I am Jan and I tried most fields of programming such as blockchain development, web application, web design and development, etc., and finally I was able to find my interest, and that was web design and development and security . It has been almost 2 years. I am coding and now I am a computer engineering student
+I am Jan and I tried most fields of programming such as blockchain development, web application, web design and development, etc., and finally I was able to find my interest, and that was web design and development and security . It has been almost 2 years. I am coding and now I am a blockchain developer
 &nbsp;
 
 In addition to my personal page, you can also follow my main page called <a href="https://www.instagram.com/barnamenevisiinsta/">barnamenevisiinsta</a> on Instagram.
