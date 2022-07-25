@@ -6,13 +6,6 @@ I am Jan and I tried most fields of programming such as blockchain development, 
 
   <br/>
     <br/>
-
- <p align="center"> 
-<a href="https://app.daily.dev/Janjoa"><img src="https://api.daily.dev/devcards/889649b27bca42a4bf7714123848fe33.png?r=5u8" width="400" alt="Janjoa_'s Dev Card"/></a>
-</p>
-
-  <br/>
-    <br/>
     
 <p align="left">
 I code with :  👇
